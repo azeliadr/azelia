@@ -1,5 +1,5 @@
 # azeliadr
-
+<img src="https://github.com/azeliadr/azeliadr/blob/main/DSCF9593.JPG" align="right" />
 ## Hi, Everyone! 
 
 I am a graduated Student at IPB University.✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
