@@ -1,6 +1,4 @@
 # azeliadr
 
-## Hi
-**CANTIK**
-CANTIK
-### Apa adanya
+## Hi, Everyone!
+I am a graduated Student at IPB University
