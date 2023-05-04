@@ -1,10 +1,8 @@
 # azeliadr
 
-## Hi, Everyone! ![image](https://user-images.githubusercontent.com/72216788/236272782-f30273ca-7886-4ae2-9312-c789b040d0a8.png)
+## Hi, Everyone! 
 
-I am a graduated Student at IPB University ![Uploading image.png…]()
-
-*alifigar/alifigar* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a graduated Student at IPB University.✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
