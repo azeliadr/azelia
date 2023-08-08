@@ -1,4 +1,3 @@
-<img src="https://github.com/azeliadr/azeliadr/blob/main/DSCF9593.JPG" align="right" />
 
 ## Hi, Everyone! 👋 
 I am a undergraduate Student at Forest Management Departement, IPB University. 
