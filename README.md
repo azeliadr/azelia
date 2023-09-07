@@ -1,6 +1,6 @@
 
 ## Hi, Everyone! 👋 
-I am a undergraduate Student at Forest Management Departement, IPB University. 
+I am a Master's Student at Forest Management Science, IPB University. A highly agile and adaptable learner who continuously strives for excellence in facing new challenges, I am an independent individual who generates and supports leadership ideas and experiences in research development, scientific writing, and project management. Apart from that, Azelia also had professional experience in the workplace and organization at the beginning of her career in her 20s, which developed her as a persistent person.
 
 ### Publication
 * Asy’Ari R, Rahmawati AD, Sa’diyya N, Gustawan AW, Setiawan Y, Zamani NP, Pramulya R. 2022. Mapping mangrove forest distribution on the Banten, Jakarta, and West Java ecotone zone from Sentinel-2-derivied indices using cloud computing based random forest. _Journal of Natural Resources and Environment Management._ 12(1): 97-111. http://dx.doi.org/10.29244/jpsl.12.1.97-111 
